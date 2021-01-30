@@ -1,6 +1,6 @@
-## IEX_CLOUD_API_TOKEN = 'Tpk_059b97af715d417d9f49f50b51b1c448'
-key ='Tpk_059b97af715d417d9f49f50b51b1c448'
-#key ='pk_48ed9de2be32450c9118ab557f81cd5c'
+
+key ='enter your key'
+
 
 
 
