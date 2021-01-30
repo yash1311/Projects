@@ -21,8 +21,8 @@ def send_mail(df,topic):
 
     print("Email login successful.")
 
-    me = "yashpatel0013@gmail.com"
-    you = "yash.1viroja1311@gmail.com"
+    me = "from_user@gmail.com"
+    you = "to_user@gmail.com"
 
     # Create message container - the correct MIME type is multipart/alternative.
     msg = MIMEMultipart('alternative')
