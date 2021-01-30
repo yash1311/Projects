@@ -1,3 +1,3 @@
 
 key='enter your key'
-email_password='enter app_password'
+email_password='enter email password'
